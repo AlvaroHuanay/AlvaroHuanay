@@ -1,17 +1,17 @@
 # Álvaro Huanay - @AlvaroHuanay 👋
 
-Hi, I'm Brais a PhD student at Vigo University, also studying an HNC on Web Development.
+Hi, I'm Álvaro a physicist from UAB currently working as a cybersecurity analyst in Deloitte.
 
-## My values
+## My values. Always
 
-🗻 Minimalism
+🤝 Share your knowledge
 
-☔️ Form follows function
+📈 Optimize resources and maximize results
 
-🏋️ Passionate and hard worker
+💭 Be curious and hard-worker
 
-📚 Never-stop learner
+🤓 Be surrounded by people wishing to make a difference.
 
-## Get in touch
+## You can contact me on:
 
-- Twitter: https://twitter.com/AntelaBrais
+- Linkedin: https://www.linkedin.com/in/%C3%A1lvaro-ari-huanay-de-dios-a60394109/
