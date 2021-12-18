@@ -1,6 +1,6 @@
 # Álvaro Huanay - @AlvaroHuanay 👋
 
-Hi, I'm Álvaro a physicist from UAB currently working as a cybersecurity analyst in Deloitte.
+Hi, I'm Álvaro a physicist from UAB currently working as a cybersecurity analyst.
 
 ## My values. Always
 
